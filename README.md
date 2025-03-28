@@ -1,6 +1,6 @@
 基于JAVA SpringBoot和Vue汽车租赁系统
 
-演示视频链接：https://live.csdn.net/v/372603
+演示视频链接：https://www.bilibili.com/video/BV1Km411k7nE/
 
 实现的功能：
 
